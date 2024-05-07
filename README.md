@@ -1,3 +1,36 @@
+HOME PAGE
+
+![Screenshot (732)](https://github.com/abhi96256/fitness/assets/131523953/490a63c5-d587-4ba8-85af-b6eaa65e8a4d)
+
+EXERCISES CATEGORIES-
+
+
+![Screenshot (733)](https://github.com/abhi96256/fitness/assets/131523953/5ee71572-6862-4fbe-a654-a4156b038ef4)
+
+SHOWING RESULTS-
+
+
+![Screenshot (735)](https://github.com/abhi96256/fitness/assets/131523953/1a63c942-673d-4ef7-87b7-956182e2b24f)
+
+EXERCISES-
+
+
+![Screenshot (742)](https://github.com/abhi96256/fitness/assets/131523953/a1d65d2c-802f-4d5d-b1cd-050df167705f)
+
+YOUTUBE VIDEOS FOR REFRENCE-
+
+
+![Screenshot (740)](https://github.com/abhi96256/fitness/assets/131523953/fc7c56f0-1714-4d9f-ae56-eaeb345ce2e5)
+
+SIMILAR EQUIPMENT EXERCISES-
+
+
+![Screenshot (743)](https://github.com/abhi96256/fitness/assets/131523953/a29db9cf-56b5-479f-b827-c04021b36d5e)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
